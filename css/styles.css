@@ -1,4 +1,9 @@
-.box {
+.box1 {
   background-color: #D4D4D4;
   border: #8c8c8c solid;
+}
+
+.featurebox {
+  background-color: #99ffcc;
+  border: 5px solid #000000;
 }
