@@ -10,3 +10,10 @@
 .darker {
   background-color: #00994d;
 }
+.bluefeaturebox {
+  background-color: #0066ff;
+  border: 5px solid #000000;
+}
+.darker {
+  background-color: #0047b3;
+}
